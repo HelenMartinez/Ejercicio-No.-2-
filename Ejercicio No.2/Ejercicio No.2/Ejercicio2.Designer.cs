@@ -130,7 +130,7 @@ namespace Ejercicio_No._2
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Javanese Text", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(234, 27);
+            this.label6.Location = new System.Drawing.Point(157, 24);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(296, 54);
             this.label6.TabIndex = 10;
@@ -147,7 +147,7 @@ namespace Ejercicio_No._2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 22F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(752, 489);
+            this.ClientSize = new System.Drawing.Size(664, 489);
             this.Controls.Add(this.PromedioTextBox);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
